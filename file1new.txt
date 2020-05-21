@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>my web page</title>
+        <style type="text/css">
+        div {
+          width:200px;
+          padding:7px;
+          border:1px solid;
+          margin:2px;
+        }
+  </style>
+    </head>
+
+    <body>
+
+
+      <h1 style="color:black ;text-align:center;"><i>Instagram</i></h1>
+      <p style="text-align:center;">
+      <form >
+        <input type="text" name="username" autofocus required placeholder="username"><br />
+        <br />
+        <input type="password" name="password" autofocus required placeholder="password"><br />
+        <br />
+        <span style="background-color:blue;padding:5px; text-align:center;"><input type="submit" value="login"></span>
+      </form>
+    </p>
+
+    </body>
+</html>
